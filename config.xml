@@ -22,4 +22,8 @@
 	<gap:platform name="android" />
 
 
+    <uses-sdk android:minSdkVersion="19"
+              android:targetSdkVersion="19"
+              android:maxSdkVersion="19" />
+
 </widget>
