@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.ecg.SimpleTicToeToe"
+        version     = "1.0.0" >
+
+    <name>Simple Tic Toe Toe</name>
+
+    <description>
+        A simple start to tic toe toe.
+    </description>
+
+    <author href="https://github.com/ProfessorKevinForbes/Simple-Tic-Toe-Toe" email="professorkevinforbes@gmail.com">
+        Kevin Forbes
+    </author>
+
+	<icon src="icon.png" />
+	<gap:splash src="splash.png" />
+
+	<gap:platform name="ios" />
+	<gap:platform name="android" />
+
+
+</widget>
